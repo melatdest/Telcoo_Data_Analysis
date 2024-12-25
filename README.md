@@ -1,1 +1,2 @@
-# Telcoo_Data_Analysis
+ "# Telecom Data Analysis" > README.md
+
